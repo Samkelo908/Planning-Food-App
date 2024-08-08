@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FoodApp
+build_property.ProjectDir = C:\Users\lab_services_student\Documents\GitHub\VCNMB-PROG6221-2024-POE--Samkelo908\VCNMB-PROG6221-2024-POE--Samkelo908\FoodApp\VCNMB-PROG6221-2024-POE--Samkelo908\FoodApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
